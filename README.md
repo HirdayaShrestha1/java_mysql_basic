@@ -4,20 +4,22 @@ A modern, user-friendly authentication system built with Java Swing and MySQL. T
 
 ## Screenshots
 
-### Sign In Page
-![Sign In Page](demo/ss0.png)
+<div align="center">
 
-### Sign Up Page
-![Sign Up Page](demo/ss1.png)
+  <!-- First Row (2 Images) -->
+  <p>
+    <img src="demo/ss0.png" alt="Sign In Page" width="45%" />
+    <img src="demo/ss1.png" alt="Sign Up Page" width="45%" />
+  </p>
 
-### Home Page
-![Home Page](demo/ss2.png)
+  <!-- Second Row (3 Images) -->
+  <p>
+    <img src="demo/ss2.png" alt="Home Page" width="30%" />
+    <img src="demo/ss3.png" alt="View Details Page" width="30%" />
+    <img src="demo/ss4.png" alt="Edit Details Page" width="30%" />
+  </p>
 
-### View Details Page
-![View Details](demo/ss3.png)
-
-### Edit Details Page
-![Edit Details](demo/ss4.png)
+</div>
 
 ## Features
 
